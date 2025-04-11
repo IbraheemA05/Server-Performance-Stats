@@ -12,11 +12,10 @@ A simple Bash script to generate Linux server performance statistics including:
 - Uptime
 - Failed login attempts
 
+https://roadmap.sh/projects/server-stats
+
 ## Usage
 
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
-
-
-https://roadmap.sh/projects/server-stats
