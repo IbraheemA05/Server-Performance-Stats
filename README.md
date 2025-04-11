@@ -17,3 +17,6 @@ A simple Bash script to generate Linux server performance statistics including:
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
+
+
+https://roadmap.sh/projects/server-stats
